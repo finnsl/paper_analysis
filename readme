@@ -1,0 +1,10 @@
+This is an ongoing statistical reanalysis of the data present in the paper "Deletion of the sodium/hydrogen exchanger 6 causes low bone volume in 
+adult mice", authored by Daniela Schnydera, Giuseppe Albanoa, Patrycja Kucharczyk, Silvia Dolder, Mark Siegrist, Manuel Anderegg, Ganesh Pathare, Willy Hofstetter,
+Roland Barond and Daniel G. Fuster, which appeared in Bone, issue 153 (2021). Full information can be found at https://doi.org/10.1016/j.bone.2021.116178
+
+The article was published under open access with the creative commons licence CC BY-NC-ND, and the data was taken from Graphpad Prism files that were uploaded at https://datadryad.org/stash/dataset/doi:10.5061/dryad.9w0vt4bdt - there were no licences placed upon the data itself, as the readme document available within the compressed data file explains.
+
+Part of this reanalysis involved transferring the data from GraphPad Prism 9 files into csv files for easier analysis with R, those csv files for the relevant rscripts can be found here. 
+
+Summary of findings:
+Currently, the data associated to Figures 1A and 8A has been reanalysed, and our analysis concurs with the results presented in the paper.
